@@ -5,6 +5,6 @@ R-Studio project composed of these files:
 3) intro_analysis.R for a preliminary analysis of data
 
 Data files are:
--data.rda
+1) data.rda
 
 Outputs in the folder "Outputs".
