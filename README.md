@@ -1,10 +1,4 @@
 # ACAU-project
-R-Studio project composed of these files:
-1) Scripts.Rproj project file
-2) functions.R containing useful functions for the other scripts
-3) intro_analysis.R for a preliminary analysis of data
-
-Data files are:
-1) data.rda
-
-Outputs in the folder "Outputs".
+A sample from the Bayesian Statistics exam project carried out in 2019: Student’s evaluation at Politecnico:
+#### Bayesian graphical tool for studying its conditional dependence structure, hierarchical models to include covariates in the analysis
+You find some R files and related pics in the namesake zip folder.
